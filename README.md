@@ -71,7 +71,7 @@ print(result)
 
 ## Training Process
 <!-- ![](training_process.png) -->
-<img src="training_process.png" alt="My Image" width="300">
+<img src="training_process.png" alt="My Image" width="200">
 
 
 
