@@ -70,7 +70,9 @@ print(result)
 - Special Features: 8x memory reduction while maintaining 92%+ accuracy
 
 ## Training Process
-![](training_process.png)
+<!-- ![](training_process.png) -->
+<img src="training_process.png" alt="My Image" width="300">
+
 
 
 
